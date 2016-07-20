@@ -1,0 +1,2 @@
+1. fit, touch, align joints
+2. constraints not applied together
